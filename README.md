@@ -1,0 +1,1 @@
+AUTOMATE THE BORING STUFF WITH PYTHON's pratice projects.
